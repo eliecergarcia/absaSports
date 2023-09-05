@@ -31,9 +31,7 @@ const Main = (props: IMainProps) => (
               <Link href="/about/">Acerca de</Link>
             </li>
             <li className="mr-6">
-              <a href="https://www.tiktok.com/@absasports">
-                Tiktok
-              </a>
+              <a href="https://www.tiktok.com/@absasports">Tiktok</a>
             </li>
           </Navbar>
         </div>
