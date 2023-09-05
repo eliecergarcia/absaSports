@@ -1,3 +1,5 @@
+const { nextui } = require('@nextui-org/theme');
+
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}', './_posts/**/*.md'],
   theme: {
@@ -40,5 +42,6 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  darkMode: 'class',
+  plugins: [nextui()],
 };
