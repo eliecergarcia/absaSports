@@ -31,8 +31,8 @@ const Main = (props: IMainProps) => (
               <Link href="/about/">About</Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
-                GitHub
+              <a href="https://www.tiktok.com/@absasports">
+                Tiktok
               </a>
             </li>
           </Navbar>
