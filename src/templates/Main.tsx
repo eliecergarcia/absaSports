@@ -25,10 +25,10 @@ const Main = (props: IMainProps) => (
         <div>
           <Navbar>
             <li className="mr-6">
-              <Link href="/">Home</Link>
+              <Link href="/">Inicio</Link>
             </li>
             <li className="mr-6">
-              <Link href="/about/">About</Link>
+              <Link href="/about/">Acerca de</Link>
             </li>
             <li className="mr-6">
               <a href="https://www.tiktok.com/@absasports">
