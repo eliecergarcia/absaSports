@@ -3,7 +3,7 @@ export const AppConfig = {
   title: 'Absa Sports',
   description: 'Tu Pasión, Nuestra Cobertura.',
   url: 'https://example.com',
-  locale: 'en',
+  locale: 'es',
   author: 'Anonymous',
   pagination_size: 5,
 };
